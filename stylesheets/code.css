@@ -1,0 +1,61 @@
+/*
+Syntax error: Undefined mixin 'selection'.
+        on line 78 of /media/F/Documents/PythonWorks/Blog Monkey/event_monkey/valentine/valentinedaysite_3/sass/code.scss, in `selection'
+        from line 78 of /media/F/Documents/PythonWorks/Blog Monkey/event_monkey/valentine/valentinedaysite_3/sass/code.scss
+
+Backtrace:
+/media/F/Documents/PythonWorks/Blog Monkey/event_monkey/valentine/valentinedaysite_3/sass/code.scss:78:in `selection'
+/media/F/Documents/PythonWorks/Blog Monkey/event_monkey/valentine/valentinedaysite_3/sass/code.scss:78
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:253:in `visit_mixin'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `map'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `visit_children'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:109:in `block in visit_children'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:121:in `with_environment'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:108:in `visit_children'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `block in visit'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:320:in `visit_rule'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `map'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `visit_children'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:109:in `block in visit_children'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:121:in `with_environment'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:108:in `visit_children'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `block in visit'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:128:in `visit_root'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:7:in `visit'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/tree/root_node.rb:20:in `render'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/engine.rb:315:in `_render'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/sass-3.2.9/lib/sass/engine.rb:262:in `render'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/compiler.rb:140:in `block (2 levels) in compile'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/compiler.rb:139:in `block in compile'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/logger.rb:45:in `red'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/compiler.rb:138:in `compile'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/compiler.rb:118:in `compile_if_required'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/compiler.rb:103:in `block (2 levels) in run'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `each'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `block in run'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/compiler.rb:100:in `run'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/commands/update_project.rb:45:in `perform'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/commands/base.rb:18:in `execute'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/commands/project_base.rb:19:in `execute'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:43:in `perform!'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:15:in `run!'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/bin/compass:30:in `block in <top (required)>'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/bin/compass:44:in `call'
+/home/channi/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/compass-0.12.2/bin/compass:44:in `<top (required)>'
+/home/channi/.rbenv/versions/2.0.0-p0/bin/compass:23:in `load'
+/home/channi/.rbenv/versions/2.0.0-p0/bin/compass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: Undefined mixin 'selection'.\A         on line 78 of /media/F/Documents/PythonWorks/Blog Monkey/event_monkey/valentine/valentinedaysite_3/sass/code.scss, in `selection'\A         from line 78 of /media/F/Documents/PythonWorks/Blog Monkey/event_monkey/valentine/valentinedaysite_3/sass/code.scss"; }
